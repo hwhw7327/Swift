@@ -38,3 +38,5 @@ var token = "qwer123"
 //명시적 타입 기입
 var days : Int = 5
 var userName: String = "Jake"
+
+
